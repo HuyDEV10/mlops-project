@@ -1,0 +1,6 @@
+/target
+/.idea
+*.log
+*.class
+__pycache__/
+.env
